@@ -1,0 +1,19 @@
+Git is a distributed version control system that allows you to track changes to your code and collaborate with others. Here are some of the most common Git commands:
+
+git init: This command initializes a new Git repository.
+
+git add: This command adds files to the staging area. The staging area is a collection of files that you are ready to commit
+
+git commit: This command commits the staged files to the Git repository. A commit is a snapshot of your code at a particular point in time.
+
+git status: This command shows you the status of your Git repository. It will tell you which files have been added, modified, or deleted, and which files are staged for commit.
+
+git clone: This command clones an existing Git repository to your local machine. This is how you get a copy of a repository that someone else has created.
+
+git push: This command pushes your local commits to a remote repository. A remote repository is a copy of your repository that is stored on a server.
+
+git pull: This command pulls changes from a remote repository to your local machine. This is how you get the latest changes from a repository that someone else has made.
+
+git checkout: This command switches you to a different branch.
+
+git merge: This command merges two branches together. Merging is the process of combining the changes from two branches into a single branch.
